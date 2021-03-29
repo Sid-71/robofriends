@@ -1,0 +1,12 @@
+  @font-face {
+    font-family: 'Noteworthy Light';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Noteworthy Light'), url('Noteworthy-Lt.woff') format('woff');
+    }
+
+    h1{
+    	font-family: 'Noteworthy Light';
+        font-weight: 800;
+        color:#0ccac4;
+    } 
